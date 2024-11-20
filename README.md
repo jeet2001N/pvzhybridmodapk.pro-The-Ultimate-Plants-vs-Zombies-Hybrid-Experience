@@ -22,8 +22,6 @@ Welcome to pvzhybridmodapk.pro your premier destination for the Plants vs Zombie
 
 **Plants vs Zombies Hybrid** is a fan-made modification of the classic **Plants vs Zombies** game. It brings together new plants, zombies, levels, and game modes to enhance your gaming experience. Whether you're a veteran player or new to the franchise, PVZHybrid offers fresh challenges and endless fun.
 
-[Learn more about the game's origin and development »](https://pvzhybridmodapk.pro/about-us/)
-
 ---
 
 ## Features
@@ -45,7 +43,6 @@ Experience a blend of classic tower defense and innovative mechanics:
 - **Dynamic Weather**: Adapt your strategy to changing weather conditions that affect gameplay.
 - **Boss Battles**: Face off against powerful zombie bosses with unique abilities.
 
-[Watch gameplay videos and trailers »](pvzhybridmodapk.pro)
 
 ---
 
@@ -67,8 +64,6 @@ Follow these simple steps to install PVZHybrid:
 2. **Run the Installer**: Double-click the file and follow the on-screen instructions.
 3. **Complete Setup**: Wait for the installation to finish and click **Finish**.
 4. **Launch the Game**: Open PVZHybrid from your desktop or start menu.
-
-[Need help? Visit our Installation Support Page »](pvzhybridmodapk.pro)
 
 ---
 
@@ -108,8 +103,6 @@ A: Currently, PVZHybrid is available only for Windows and macOS.
 
 **Q4: How do I report bugs or issues?**
 
-A: Please use our [Contact Form](https://pvzhybridmodapk.pro/contact-us/) to report any problems.
-
 ---
 
 ## Community
@@ -130,7 +123,7 @@ Join our growing community to share tips, tricks, and fan art:
 Have questions or feedback? We'd love to hear from you!
 
 - **Email**: [support_pvzhybridmodapk](marketmate32@gmail.com)
-- **Contact Form**: [Send us a message](https://pvzhybridmodapk.pro/contact-us/)
+- **Contact Form**: [Send us a message](https://pvzhybridmodapk.pro/)
 
 ---
 
