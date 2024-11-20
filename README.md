@@ -104,26 +104,11 @@ A: Currently, PVZHybrid is available only for Windows and macOS.
 **Q4: How do I report bugs or issues?**
 
 ---
-
-## Community
-
-Join our growing community to share tips, tricks, and fan art:
-
-- **Forums**: Participate in discussions on our [Official Forums](https://pvzhybridmodapk.pro).
-- **Discord**: Chat with other players on our [Discord Server](https://pvzhybridmodapk.pro).
-- **Social Media**:
-  - [Facebook](https://pvzhybridmodapk.pro)
-  - [Twitter](https://pvzhybridmodapk.pro)
-  - [Instagram](https://pvzhybridmodapk.pro)
-
----
-
 ## Contact Us
 
 Have questions or feedback? We'd love to hear from you!
 
-- **Email**: [support_pvzhybridmodapk](marketmate32@gmail.com)
-- **Contact Form**: [Send us a message](https://pvzhybridmodapk.pro/)
+- **Email**: marketmate32@gmail.com
 
 ---
 
