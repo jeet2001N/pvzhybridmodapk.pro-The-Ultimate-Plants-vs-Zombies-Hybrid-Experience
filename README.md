@@ -50,7 +50,7 @@ Experience a blend of classic tower defense and innovative mechanics:
 
 Getting started is easy:
 
-1. Visit our [Download Page](pvzhybridmodapk.pro).
+1. Visit our [Download Page](https://pvzhybridmodapk.pro).
 2. Click on the **Download Now** button.
 3. Choose the version compatible with your operating system (Windows/macOS).
 
